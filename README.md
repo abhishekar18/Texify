@@ -3,7 +3,7 @@
 
 <hr>
 
-#Summary
+# Summary
 
 Optical character recognition (OCR) is the electronic or mechanical conversion of images of typed, handwritten or printed text into machine-encoded text. The handwritten text is usually read from a scanned document, a photo of a document, a scene-photo or from subtitle text superimposed on an image. 
 
@@ -11,7 +11,7 @@ Textify is an Android-based app which captures an image, reads the text from it 
 
 <hr>
 
-#Tech Stack Used:
+# Tech Stack Used:
 
 -> Android Studio
 
@@ -21,28 +21,27 @@ Textify is an Android-based app which captures an image, reads the text from it 
 
 -> Java
 
-
 <hr>
 
-#App Screenshots
+# App Screenshots
 
-##Home Page
+## Home Page
 <img src = "https://github.com/abhishekar18/Texify/blob/main/AppScreenshots/Textify1.jpeg" height = "800" />
 
-##Main Screen
+## Main Screen
 <img src = "https://github.com/abhishekar18/Texify/blob/main/AppScreenshots/Textify2.jpeg" height = "800" />
 
-##Requesting App Perms
+## Requesting App Perms
 <img src = "https://github.com/abhishekar18/Texify/blob/main/AppScreenshots/Textify3.jpeg" height = "800" />
 
-##Taking Picture
+## Taking Picture
 <img src = "https://github.com/abhishekar18/Texify/blob/main/AppScreenshots/Textify4.jpeg" height = "800" />
 
-##Setting Picture
+## Setting Picture
 <img src = "https://github.com/abhishekar18/Texify/blob/main/AppScreenshots/Textify5.jpeg" height = "800" />
 
-##Detecting Text
+## Detecting Text
 <img src = "https://github.com/abhishekar18/Texify/blob/main/AppScreenshots/Textify6.jpeg" height = "800" />
 
-##Printing Text
+## Printing Text
 <img src = "https://github.com/abhishekar18/Texify/blob/main/AppScreenshots/Textify7.jpeg" height = "800" />
