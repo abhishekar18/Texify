@@ -12,10 +12,15 @@ Textify is an Android-based app which captures an image, reads the text from it 
 <hr>
 
 #Tech Stack Used:
+
 -> Android Studio
+
 -> Firebase
+
 -> Ml-Kit
+
 -> Java
+
 
 <hr>
 
